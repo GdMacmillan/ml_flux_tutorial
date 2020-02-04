@@ -1,6 +1,9 @@
-# Flux ML Stuff Repo
+![logo](images/logo.png)
 
-Inspired by these posts, I want to build a couple of small training modules to help train and test models for kaggle projects.
+# ML Flux Tutorial
 
-https://discourse.julialang.org/t/flux-jl-vanilla-ann-loss-goes-to-nan-with-mini-batch/25511
-# ml_flux_tutorial
+This repo contains my notebook file as well as a link to the read-only google drive version where you can easily create a copy. Please check out my blog post if you aren't sure what ML Flux or even a neural network is!
+
+[Basic Image Classification with Julia on Google Colab](https://gdmacmillan.github.io/2020/02/04/Basic_Image_Classification_with_Julia_on_Google_Colab)
+
+[ML_Flux_Tutorial.ipynb](ML_Flux_Tutorial.ipynb)
